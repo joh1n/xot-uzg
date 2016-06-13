@@ -270,7 +270,7 @@
   * Changed: UzgLog to logFile (for general purpose)
   
 ==Changelog v2.7.0b2 2007-07-14 (Requires at least XBMC R8683)==
-  * Removed: Some unneccessary imports
+  * Removed: Some unnecessary imports
   * Added: UZG Logger class, not based on Python logging
   * Added: option to log exceptions in both UZG and XBMC log
   * Added: GUID for identification of cListItems
